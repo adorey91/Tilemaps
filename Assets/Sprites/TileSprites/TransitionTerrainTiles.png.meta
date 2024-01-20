@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: bc6f8069f75f81440a8586324f15936a
+guid: e4f2e4742c94aa14492bb53b930291c2
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -73,7 +73,7 @@ TextureImporter:
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 0
-    compressionQuality: 100
+    compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
@@ -136,7 +136,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Spritesheet_0
+      name: TransitionTerrainTiles_0
       rect:
         serializedVersion: 2
         x: 0
@@ -144,20 +144,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 768a41025a0e1314492cdd86c42edd51
-      internalID: 2029242534
+      spriteID: 56befa7ef164f0e4eaf0a9fe5313ae13
+      internalID: -1727414947
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_1
+      name: TransitionTerrainTiles_1
       rect:
         serializedVersion: 2
         x: 16
@@ -165,20 +165,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d56af7b2aeda31b41a6fdaa711eaf50e
-      internalID: 1094057615
+      spriteID: 30b949b5d9e35a742ba224322f3cfe44
+      internalID: -936413006
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_2
+      name: TransitionTerrainTiles_2
       rect:
         serializedVersion: 2
         x: 32
@@ -186,20 +186,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5fbbf7800204e0544a53739aa44ff8c1
-      internalID: 198586799
+      spriteID: 6335442595df01e46b8800fe3cf454ea
+      internalID: -345329558
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_4
+      name: TransitionTerrainTiles_3
       rect:
         serializedVersion: 2
         x: 80
@@ -207,20 +207,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3c2b7465e6af6e74e9aa3a09f9f0d5d2
-      internalID: -187694736
+      spriteID: 10cd43cf7f1d2c84f80e0a54fef19713
+      internalID: -1066867210
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_5
+      name: TransitionTerrainTiles_4
       rect:
         serializedVersion: 2
         x: 96
@@ -228,20 +228,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7642ebec9874bd64991f9d7713f3572e
-      internalID: -581098938
+      spriteID: 515bd0d40ee23ba4c88a1a42aabb578d
+      internalID: 1226289111
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_6
+      name: TransitionTerrainTiles_5
       rect:
         serializedVersion: 2
         x: 112
@@ -249,20 +249,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 27225b70beb812745ba12d671b29314b
-      internalID: -1871753463
+      spriteID: 862444678af291649aa8d4c2149c7225
+      internalID: 1704165876
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_7
+      name: TransitionTerrainTiles_6
       rect:
         serializedVersion: 2
         x: 0
@@ -270,20 +270,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 273af9b0e344211499b04a3ce2583a97
-      internalID: -1924800649
+      spriteID: 856281c12455b4e49b6ad9c1d48968b4
+      internalID: -377071102
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_8
+      name: TransitionTerrainTiles_7
       rect:
         serializedVersion: 2
         x: 16
@@ -291,20 +291,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: eef569f16daa14e40826ae60654cebaf
-      internalID: -1834887146
+      spriteID: 19adba5b286a25242b152246ef59fe56
+      internalID: 1021296403
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_9
+      name: TransitionTerrainTiles_8
       rect:
         serializedVersion: 2
         x: 32
@@ -312,20 +312,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3aaf6df22ef40d64da9d47c990dabab0
-      internalID: 1073222467
+      spriteID: 900934acbf8475943bc1466ccec351c8
+      internalID: -1754249939
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_11
+      name: TransitionTerrainTiles_9
       rect:
         serializedVersion: 2
         x: 80
@@ -333,20 +333,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0b1bbefd056ea3e40ae24cae46c51f34
-      internalID: -1778235713
+      spriteID: 9a0062487cfe8184fb38c3260a528738
+      internalID: 237223985
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_12
+      name: TransitionTerrainTiles_10
       rect:
         serializedVersion: 2
         x: 96
@@ -354,20 +354,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5025e1333eeb16b4ea80b593ef569cf8
-      internalID: 1717727502
+      spriteID: 0e9e49c011338dd4c8cc69da996e9915
+      internalID: -1280998684
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_13
+      name: TransitionTerrainTiles_11
       rect:
         serializedVersion: 2
         x: 112
@@ -375,20 +375,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: be92b46d567272d4ea021c3daa304dd3
-      internalID: -538802995
+      spriteID: 22eb34de448849a488449c20bfa4deed
+      internalID: -235470995
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_14
+      name: TransitionTerrainTiles_12
       rect:
         serializedVersion: 2
         x: 0
@@ -396,20 +396,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f0d9a2a489abb0e4fb119445d1e4d463
-      internalID: -953085344
+      spriteID: 38a54bc5d3ce7b44693cb89b553a6906
+      internalID: 291241633
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_15
+      name: TransitionTerrainTiles_13
       rect:
         serializedVersion: 2
         x: 16
@@ -417,20 +417,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c917c44495794d64c93001fca1645d04
-      internalID: -37885090
+      spriteID: fa780680c60f58241a14fd94c4e523fe
+      internalID: -897468362
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_16
+      name: TransitionTerrainTiles_14
       rect:
         serializedVersion: 2
         x: 32
@@ -438,20 +438,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f81e3d709e803284eb59db8991399957
-      internalID: -1961238316
+      spriteID: 4ea3078263a9937418654dcdf137e5d5
+      internalID: -740442912
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_18
+      name: TransitionTerrainTiles_15
       rect:
         serializedVersion: 2
         x: 80
@@ -459,20 +459,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6dd54fa4bb8368c4c8ff15f090d63c77
-      internalID: -762250656
+      spriteID: 9ad38fa4f3628d34488aef77e0a99235
+      internalID: -192893600
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_19
+      name: TransitionTerrainTiles_16
       rect:
         serializedVersion: 2
         x: 96
@@ -480,20 +480,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4099f6749b4457b4ea514128d1b28770
-      internalID: -52424665
+      spriteID: e1948fce2d977664aab9f677bf675ab9
+      internalID: -1858239763
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_20
+      name: TransitionTerrainTiles_17
       rect:
         serializedVersion: 2
         x: 112
@@ -501,104 +501,62 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7ffbb88fc03357447b311c5de7d79d1d
-      internalID: -1496677019
+      spriteID: 79f5c5831fbccb74f82a05f7e9904d23
+      internalID: 651670759
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_23
+      name: TransitionTerrainTiles_18
       rect:
         serializedVersion: 2
-        x: 32
-        y: 64
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c8dd52402a1fd47499a61278630961ba
-      internalID: 1777900062
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Spritesheet_24
-      rect:
-        serializedVersion: 2
-        x: 48
-        y: 64
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7bb5ca41a216a7a4f8a60c499203a69e
-      internalID: 605841409
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Spritesheet_25
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 64
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 652df2968188c8c4684211b16623eb93
-      internalID: -2004014184
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Spritesheet_29
-      rect:
-        serializedVersion: 2
-        x: 32
+        x: 0
         y: 48
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 93d120af4465cde428bc67024c3eff9d
-      internalID: 1516167247
+      spriteID: ce98659d5fee9384381023ca7c4cc77d
+      internalID: 1125120569
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_30
+      name: TransitionTerrainTiles_19
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 614348f5a6e7d3540b0132570e31e53f
+      internalID: 1209299620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransitionTerrainTiles_20
       rect:
         serializedVersion: 2
         x: 48
@@ -606,20 +564,104 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 02221187a45cec14789d798ad0e04fe4
-      internalID: -451575370
+      spriteID: c52eb03b677b59548b04339394fb7fe0
+      internalID: -2086258709
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_32
+      name: TransitionTerrainTiles_21
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2f3cabdac24e0459892653f19bc5fb
+      internalID: 213486555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransitionTerrainTiles_22
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26183e3c2e2b09d43878b313c2b9acaa
+      internalID: 1693290195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransitionTerrainTiles_23
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30042aefca865474b936f246a5856c84
+      internalID: -361143330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransitionTerrainTiles_24
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6614ac780cb44c743bd3677e632928a8
+      internalID: 220441047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransitionTerrainTiles_25
       rect:
         serializedVersion: 2
         x: 0
@@ -627,20 +669,62 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dbb98e4002ccba2459fcb3a87fa0a523
-      internalID: -1028904211
+      spriteID: 6a76c7bfaf7a0c04d830a664aea126c0
+      internalID: 481473055
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_33
+      name: TransitionTerrainTiles_26
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d2d1a91f65e8f4daef942015080ee6
+      internalID: 1134880782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransitionTerrainTiles_27
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd8cc12e017e3204b83cf281c3fe5c84
+      internalID: 481161152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransitionTerrainTiles_28
       rect:
         serializedVersion: 2
         x: 64
@@ -648,20 +732,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bc1ca76a57337804aa4f78696fa81994
-      internalID: -1485827340
+      spriteID: 8758e09101188524a949d5c04a1c0753
+      internalID: -2091001618
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_34
+      name: TransitionTerrainTiles_29
       rect:
         serializedVersion: 2
         x: 80
@@ -669,20 +753,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: eb90740d40656eb47a4a8278ce16bc00
-      internalID: -1761685450
+      spriteID: 1b9a74490acdeaf47832a79c9bad43e5
+      internalID: -316259169
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_35
+      name: TransitionTerrainTiles_30
       rect:
         serializedVersion: 2
         x: 96
@@ -690,20 +774,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 746861d8294e27b41bd78489eff96035
-      internalID: -1177004503
+      spriteID: bc2ce9ff6c3bcc342a9cdf71811e4cee
+      internalID: 765276915
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_36
+      name: TransitionTerrainTiles_31
       rect:
         serializedVersion: 2
         x: 112
@@ -711,20 +795,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e96a87369d386764da8c4e46ab6d939d
-      internalID: -1631169017
+      spriteID: 6174f5784c96c354196b4a2c753e506e
+      internalID: -850425744
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_38
+      name: TransitionTerrainTiles_32
       rect:
         serializedVersion: 2
         x: 80
@@ -732,20 +816,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e531705b8ef82154eb889f6c7e8dc875
-      internalID: 441212621
+      spriteID: bfb5dc928b07df243bca2d91063dd559
+      internalID: -1547493464
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_39
+      name: TransitionTerrainTiles_33
       rect:
         serializedVersion: 2
         x: 96
@@ -753,20 +837,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: be2dbc64aa1a054469bdacf4a37924f0
-      internalID: 793359077
+      spriteID: 42cffcf3c50b7d940af503cda3c41297
+      internalID: 1801871762
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_40
+      name: TransitionTerrainTiles_34
       rect:
         serializedVersion: 2
         x: 112
@@ -774,14 +858,14 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 67444c6742f69e14a980d3b5901bea62
-      internalID: 682838380
+      spriteID: d499cafc78972f44ebd6d98bdca2229e
+      internalID: -328090299
       vertices: []
       indices: 
       edges: []
@@ -797,48 +881,41 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Spritesheet_0: 2029242534
-      Spritesheet_1: 1094057615
-      Spritesheet_10: -2111090683
-      Spritesheet_11: -1778235713
-      Spritesheet_12: 1717727502
-      Spritesheet_13: -538802995
-      Spritesheet_14: -953085344
-      Spritesheet_15: -37885090
-      Spritesheet_16: -1961238316
-      Spritesheet_17: 401354202
-      Spritesheet_18: -762250656
-      Spritesheet_19: -52424665
-      Spritesheet_2: 198586799
-      Spritesheet_20: -1496677019
-      Spritesheet_21: 357229599
-      Spritesheet_22: 1691745610
-      Spritesheet_23: 1777900062
-      Spritesheet_24: 605841409
-      Spritesheet_25: -2004014184
-      Spritesheet_26: -2069766119
-      Spritesheet_27: -66403008
-      Spritesheet_28: -137085896
-      Spritesheet_29: 1516167247
-      Spritesheet_3: -508735974
-      Spritesheet_30: -451575370
-      Spritesheet_31: -1973889351
-      Spritesheet_32: -1028904211
-      Spritesheet_33: -1485827340
-      Spritesheet_34: -1761685450
-      Spritesheet_35: -1177004503
-      Spritesheet_36: -1631169017
-      Spritesheet_37: 1625164332
-      Spritesheet_38: 441212621
-      Spritesheet_39: 793359077
-      Spritesheet_4: -187694736
-      Spritesheet_40: 682838380
-      Spritesheet_41: 1621928922
-      Spritesheet_5: -581098938
-      Spritesheet_6: -1871753463
-      Spritesheet_7: -1924800649
-      Spritesheet_8: -1834887146
-      Spritesheet_9: 1073222467
+      TransitionTerrainTiles_0: -1727414947
+      TransitionTerrainTiles_1: -936413006
+      TransitionTerrainTiles_10: -1280998684
+      TransitionTerrainTiles_11: -235470995
+      TransitionTerrainTiles_12: 291241633
+      TransitionTerrainTiles_13: -897468362
+      TransitionTerrainTiles_14: -740442912
+      TransitionTerrainTiles_15: -192893600
+      TransitionTerrainTiles_16: -1858239763
+      TransitionTerrainTiles_17: 651670759
+      TransitionTerrainTiles_18: 1125120569
+      TransitionTerrainTiles_19: 1209299620
+      TransitionTerrainTiles_2: -345329558
+      TransitionTerrainTiles_20: -2086258709
+      TransitionTerrainTiles_21: 213486555
+      TransitionTerrainTiles_22: 1693290195
+      TransitionTerrainTiles_23: -361143330
+      TransitionTerrainTiles_24: 220441047
+      TransitionTerrainTiles_25: 481473055
+      TransitionTerrainTiles_26: 1134880782
+      TransitionTerrainTiles_27: 481161152
+      TransitionTerrainTiles_28: -2091001618
+      TransitionTerrainTiles_29: -316259169
+      TransitionTerrainTiles_3: -1066867210
+      TransitionTerrainTiles_30: 765276915
+      TransitionTerrainTiles_31: -850425744
+      TransitionTerrainTiles_32: -1547493464
+      TransitionTerrainTiles_33: 1801871762
+      TransitionTerrainTiles_34: -328090299
+      TransitionTerrainTiles_4: 1226289111
+      TransitionTerrainTiles_5: 1704165876
+      TransitionTerrainTiles_6: -377071102
+      TransitionTerrainTiles_7: 1021296403
+      TransitionTerrainTiles_8: -1754249939
+      TransitionTerrainTiles_9: 237223985
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
