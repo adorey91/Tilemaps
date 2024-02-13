@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 39ec3e3495aeda64ebf21a90331399d4
+guid: 532ff672cc4fed24ba7bfbddda89ce83
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -110,7 +110,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: 8frameZombieSprite_0
+      name: 8frameManSprite_0
       rect:
         serializedVersion: 2
         x: 0
@@ -124,14 +124,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 98f614eb5fd1d5f49a222c7fda13969f
-      internalID: -498700232
+      spriteID: bddb9969c32360c42b5820ae99c114be
+      internalID: -865048
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 8frameZombieSprite_1
+      name: 8frameManSprite_1
       rect:
         serializedVersion: 2
         x: 32
@@ -145,14 +145,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f77083069e08eaa44af38e535abdab23
-      internalID: 536767195
+      spriteID: fb126355140a7b1479b526f675d84128
+      internalID: -1450979474
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 8frameZombieSprite_2
+      name: 8frameManSprite_2
       rect:
         serializedVersion: 2
         x: 64
@@ -166,14 +166,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 690e16d57c367484f8c756b7d54a6936
-      internalID: -1388219553
+      spriteID: ad4a0a8b6d5684546b15d5c5725e4e42
+      internalID: -608902019
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 8frameZombieSprite_3
+      name: 8frameManSprite_3
       rect:
         serializedVersion: 2
         x: 96
@@ -187,14 +187,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 58cfe5ab8a873db47b038bb8e5586c55
-      internalID: 1187450916
+      spriteID: 0a9814c863fdecb47a24592fb5e0be94
+      internalID: 159890110
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 8frameZombieSprite_4
+      name: 8frameManSprite_4
       rect:
         serializedVersion: 2
         x: 0
@@ -208,14 +208,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 606175f9e4ce11c4e999afad3bff77af
-      internalID: 1699065013
+      spriteID: 28f57c64e6af82144b83e5947e8b45aa
+      internalID: 2038016631
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 8frameZombieSprite_5
+      name: 8frameManSprite_5
       rect:
         serializedVersion: 2
         x: 32
@@ -229,14 +229,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ef191c41530c97040b987e5d6a161e0d
-      internalID: 140098813
+      spriteID: c4f6dbef73b0846468363f81bce485d5
+      internalID: 813836190
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 8frameZombieSprite_6
+      name: 8frameManSprite_6
       rect:
         serializedVersion: 2
         x: 64
@@ -250,14 +250,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1a61940809b437b429679342a339cda9
-      internalID: 1917308469
+      spriteID: 6b800666e9c716143b21e4670732707d
+      internalID: 587340935
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 8frameZombieSprite_7
+      name: 8frameManSprite_7
       rect:
         serializedVersion: 2
         x: 96
@@ -271,14 +271,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3b3a541932d8f304e918463171cab3af
-      internalID: 1972239717
+      spriteID: 0ebe9c9144211dd46b2ab118f1e9e75d
+      internalID: 2047532773
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 8frameZombieSprite_8
+      name: 8frameManSprite_8
       rect:
         serializedVersion: 2
         x: 128
@@ -292,14 +292,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c6037b957d84d5141b3d8dd74257f756
-      internalID: -1809658590
+      spriteID: 6afad72734eb8294787d221ef10b983c
+      internalID: -1034532631
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 8frameZombieSprite_9
+      name: 8frameManSprite_9
       rect:
         serializedVersion: 2
         x: 160
@@ -313,14 +313,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3efbf3f2e9c07e44c8bd163d102c6965
-      internalID: 1085248692
+      spriteID: 847fa127d3a01b749b7b5e7c329845ed
+      internalID: -764072533
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 8frameZombieSprite_10
+      name: 8frameManSprite_10
       rect:
         serializedVersion: 2
         x: 192
@@ -334,14 +334,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c1f8fbfdb9cbbef4fb90d722c0cf7ce9
-      internalID: -854275288
+      spriteID: 3f0e05716d619fe49b7f5037f9ce26e2
+      internalID: 200621115
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 8frameZombieSprite_11
+      name: 8frameManSprite_11
       rect:
         serializedVersion: 2
         x: 224
@@ -355,14 +355,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 16d894c4ffb2e9f4fba5ec72af728b1c
-      internalID: 641462699
+      spriteID: ee4715544107aaa4ebae89e328136cf4
+      internalID: 2060715478
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 8frameZombieSprite_12
+      name: 8frameManSprite_12
       rect:
         serializedVersion: 2
         x: 0
@@ -376,14 +376,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c2ca8ddde04303c4680fa2299bbd5e2d
-      internalID: -2087762907
+      spriteID: 35f5e36347224174a91baf31dedfaeab
+      internalID: 1113909172
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 8frameZombieSprite_13
+      name: 8frameManSprite_13
       rect:
         serializedVersion: 2
         x: 32
@@ -397,14 +397,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7b0040de713ba38489c45a9bd5796c98
-      internalID: 2074895225
+      spriteID: d61ea79970f21d94ab936a3c676986c5
+      internalID: -824119318
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 8frameZombieSprite_14
+      name: 8frameManSprite_14
       rect:
         serializedVersion: 2
         x: 64
@@ -418,14 +418,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cc704bde4b622c545a8bcbb4522a0702
-      internalID: 1534359340
+      spriteID: 4f5ae35d4b44155488060d7a13864147
+      internalID: 1490107913
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 8frameZombieSprite_15
+      name: 8frameManSprite_15
       rect:
         serializedVersion: 2
         x: 96
@@ -439,14 +439,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9d7410699d61ec040a2a0abfe69cfaff
-      internalID: 2122472178
+      spriteID: 0e12892ac01467a429cba28a9a9e9806
+      internalID: 1366636735
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 8frameZombieSprite_16
+      name: 8frameManSprite_16
       rect:
         serializedVersion: 2
         x: 128
@@ -460,14 +460,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4ba94cd2fa0361c44be2280be51fe739
-      internalID: -1559243743
+      spriteID: bed0c09e4c7997a45b7333150f3f6fcb
+      internalID: -1161559774
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 8frameZombieSprite_17
+      name: 8frameManSprite_17
       rect:
         serializedVersion: 2
         x: 160
@@ -481,14 +481,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d441480ea9967d54bb9343d4da4ab51f
-      internalID: -898276655
+      spriteID: c98304fa2fc360245af902202a248be0
+      internalID: 1322513637
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 8frameZombieSprite_18
+      name: 8frameManSprite_18
       rect:
         serializedVersion: 2
         x: 192
@@ -502,14 +502,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c15baac3ee003bc4098340ff47c19aa8
-      internalID: 412804342
+      spriteID: c486e714c83f36b46a06b8545dafc7e1
+      internalID: -820510997
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 8frameZombieSprite_19
+      name: 8frameManSprite_19
       rect:
         serializedVersion: 2
         x: 224
@@ -523,14 +523,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a4ebde5e3754557488d0793e0e3a6cfe
-      internalID: -1677088239
+      spriteID: 772161ccec792f84eb7aa6e55a80208f
+      internalID: 1127133078
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 8frameZombieSprite_20
+      name: 8frameManSprite_20
       rect:
         serializedVersion: 2
         x: 0
@@ -544,14 +544,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 72934e5afadab274ca31d3a995a70eaf
-      internalID: -224995823
+      spriteID: fb20c4de1d22e9441ad99af8c22e941a
+      internalID: 1468463283
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 8frameZombieSprite_21
+      name: 8frameManSprite_21
       rect:
         serializedVersion: 2
         x: 32
@@ -565,14 +565,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 86ed3c7aeed591947ad0702e0069a9d5
-      internalID: -1623848011
+      spriteID: bec56ef8b0002f84b9274145c5fe6266
+      internalID: -164797025
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 8frameZombieSprite_22
+      name: 8frameManSprite_22
       rect:
         serializedVersion: 2
         x: 64
@@ -586,14 +586,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a7457ac01cd94c1428bfcee2ee2773bd
-      internalID: -782539713
+      spriteID: cc46a7ca47645a74abfaa76954730a35
+      internalID: 1791548495
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 8frameZombieSprite_23
+      name: 8frameManSprite_23
       rect:
         serializedVersion: 2
         x: 96
@@ -607,14 +607,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d70972d52cc9e654b8e7ae80ed411d44
-      internalID: 321464986
+      spriteID: 0741bd57152f7464883afe08135119d3
+      internalID: -1101403760
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 8frameZombieSprite_24
+      name: 8frameManSprite_24
       rect:
         serializedVersion: 2
         x: 128
@@ -628,14 +628,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 33f04ca9bfb57c9468efcf50f7339a2f
-      internalID: -343680435
+      spriteID: fa1f01b137ff0c644aa3283381079776
+      internalID: 30225660
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 8frameZombieSprite_25
+      name: 8frameManSprite_25
       rect:
         serializedVersion: 2
         x: 160
@@ -649,14 +649,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ed66e3e04b20b1f4797c73395252eaa0
-      internalID: 706246556
+      spriteID: 630ca1104e6c0314fafab5173698ec13
+      internalID: -1471857414
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 8frameZombieSprite_26
+      name: 8frameManSprite_26
       rect:
         serializedVersion: 2
         x: 192
@@ -670,14 +670,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 078f434eba717bd4f9a2a866cb8ed940
-      internalID: 568254716
+      spriteID: daa0d356993e06343a4fe5e0caad45b6
+      internalID: 803297467
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 8frameZombieSprite_27
+      name: 8frameManSprite_27
       rect:
         serializedVersion: 2
         x: 224
@@ -691,14 +691,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b05cd1d97fc324a4db60440fe6a0de2d
-      internalID: 1847477007
+      spriteID: 1dfcae9a4e23d8f4783550f85db8d06c
+      internalID: -782069521
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 8frameZombieSprite_28
+      name: 8frameManSprite_28
       rect:
         serializedVersion: 2
         x: 0
@@ -712,14 +712,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 71c8290bd3042ad48802aa9d8dc2589c
-      internalID: 1362644422
+      spriteID: 8a300ad089ca7e543bf6237eb100d69a
+      internalID: -289569380
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 8frameZombieSprite_29
+      name: 8frameManSprite_29
       rect:
         serializedVersion: 2
         x: 32
@@ -733,14 +733,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 81db996d3f1d77e40a8b97f234901b07
-      internalID: 748635232
+      spriteID: fb26c30e0c393db4098626ebceb24914
+      internalID: -622932745
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 8frameZombieSprite_30
+      name: 8frameManSprite_30
       rect:
         serializedVersion: 2
         x: 64
@@ -754,14 +754,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b0c6b777d4f12124ea04f2906cf8c1c8
-      internalID: 1999193506
+      spriteID: a8bfdf0847826174b881bb901a6498e8
+      internalID: 73656016
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 8frameZombieSprite_31
+      name: 8frameManSprite_31
       rect:
         serializedVersion: 2
         x: 96
@@ -775,14 +775,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e02ddc96dc8c17948ac3216755543359
-      internalID: -1157049858
+      spriteID: fbbbaee5b040ccd4892ad8000a44b414
+      internalID: -2116332832
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 8frameZombieSprite_32
+      name: 8frameManSprite_32
       rect:
         serializedVersion: 2
         x: 128
@@ -796,14 +796,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 73fa8034babb4674198d35e23f3c3770
-      internalID: 500843598
+      spriteID: c6e6e3ca5a3c4ec4ba1ebf7d5c1b6abd
+      internalID: 1221460883
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 8frameZombieSprite_33
+      name: 8frameManSprite_33
       rect:
         serializedVersion: 2
         x: 160
@@ -817,14 +817,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cb4e8e8157120554d8079ba6e94c2ddd
-      internalID: 93114390
+      spriteID: b7caf4a0aa16c0545a527c666d2fcad2
+      internalID: 254447730
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 8frameZombieSprite_34
+      name: 8frameManSprite_34
       rect:
         serializedVersion: 2
         x: 192
@@ -838,14 +838,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8eb5549b15148e445aaab65f905bc119
-      internalID: 478781545
+      spriteID: 617691ca433735241a321a249c51551c
+      internalID: -1933804818
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 8frameZombieSprite_35
+      name: 8frameManSprite_35
       rect:
         serializedVersion: 2
         x: 224
@@ -859,8 +859,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 116a0cfc77ad8f24fae8c3ab289d220c
-      internalID: 1568219691
+      spriteID: adfd15b2b9da319468eb3951ce13a164
+      internalID: -1908694213
       vertices: []
       indices: 
       edges: []
@@ -876,42 +876,42 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      8frameZombieSprite_0: -498700232
-      8frameZombieSprite_1: 536767195
-      8frameZombieSprite_10: -854275288
-      8frameZombieSprite_11: 641462699
-      8frameZombieSprite_12: -2087762907
-      8frameZombieSprite_13: 2074895225
-      8frameZombieSprite_14: 1534359340
-      8frameZombieSprite_15: 2122472178
-      8frameZombieSprite_16: -1559243743
-      8frameZombieSprite_17: -898276655
-      8frameZombieSprite_18: 412804342
-      8frameZombieSprite_19: -1677088239
-      8frameZombieSprite_2: -1388219553
-      8frameZombieSprite_20: -224995823
-      8frameZombieSprite_21: -1623848011
-      8frameZombieSprite_22: -782539713
-      8frameZombieSprite_23: 321464986
-      8frameZombieSprite_24: -343680435
-      8frameZombieSprite_25: 706246556
-      8frameZombieSprite_26: 568254716
-      8frameZombieSprite_27: 1847477007
-      8frameZombieSprite_28: 1362644422
-      8frameZombieSprite_29: 748635232
-      8frameZombieSprite_3: 1187450916
-      8frameZombieSprite_30: 1999193506
-      8frameZombieSprite_31: -1157049858
-      8frameZombieSprite_32: 500843598
-      8frameZombieSprite_33: 93114390
-      8frameZombieSprite_34: 478781545
-      8frameZombieSprite_35: 1568219691
-      8frameZombieSprite_4: 1699065013
-      8frameZombieSprite_5: 140098813
-      8frameZombieSprite_6: 1917308469
-      8frameZombieSprite_7: 1972239717
-      8frameZombieSprite_8: -1809658590
-      8frameZombieSprite_9: 1085248692
+      8frameManSprite_0: -865048
+      8frameManSprite_1: -1450979474
+      8frameManSprite_10: 200621115
+      8frameManSprite_11: 2060715478
+      8frameManSprite_12: 1113909172
+      8frameManSprite_13: -824119318
+      8frameManSprite_14: 1490107913
+      8frameManSprite_15: 1366636735
+      8frameManSprite_16: -1161559774
+      8frameManSprite_17: 1322513637
+      8frameManSprite_18: -820510997
+      8frameManSprite_19: 1127133078
+      8frameManSprite_2: -608902019
+      8frameManSprite_20: 1468463283
+      8frameManSprite_21: -164797025
+      8frameManSprite_22: 1791548495
+      8frameManSprite_23: -1101403760
+      8frameManSprite_24: 30225660
+      8frameManSprite_25: -1471857414
+      8frameManSprite_26: 803297467
+      8frameManSprite_27: -782069521
+      8frameManSprite_28: -289569380
+      8frameManSprite_29: -622932745
+      8frameManSprite_3: 159890110
+      8frameManSprite_30: 73656016
+      8frameManSprite_31: -2116332832
+      8frameManSprite_32: 1221460883
+      8frameManSprite_33: 254447730
+      8frameManSprite_34: -1933804818
+      8frameManSprite_35: -1908694213
+      8frameManSprite_4: 2038016631
+      8frameManSprite_5: 813836190
+      8frameManSprite_6: 587340935
+      8frameManSprite_7: 2047532773
+      8frameManSprite_8: -1034532631
+      8frameManSprite_9: -764072533
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

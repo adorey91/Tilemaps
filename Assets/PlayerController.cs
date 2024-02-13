@@ -4,11 +4,13 @@ using UnityEngine;
 
 public class PlayerController : MonoBehaviour
 {
-    [SerializeField] private float moveSpeed = 5f;
+    [SerializeField] private float walkSpeed = 5f;
+    private float moveSpeed;
     private Rigidbody2D _rb;
     private Vector2 _movement;
     [SerializeField] private Animator _animator;
     [SerializeField] private float lastInputX, lastInputY;
+    [SerializeField] private bool isRunning;
 
     public void Awake()
     {
@@ -30,6 +32,17 @@ public class PlayerController : MonoBehaviour
 
     private void HandleMove()
     {
+        if (Input.GetKey(KeyCode.LeftShift))
+        {
+            moveSpeed = walkSpeed * 2;
+            isRunning = true;
+        }
+        else
+        {
+            moveSpeed = walkSpeed;
+            isRunning = false;
+        }
+
         _rb.MovePosition(_rb.position + _movement.normalized * moveSpeed * Time.fixedDeltaTime);
     }
 
@@ -41,23 +54,14 @@ public class PlayerController : MonoBehaviour
             _animator.SetFloat("MoveInputX", _movement.x);
             _animator.SetFloat("MoveInputY", _movement.y);
             _animator.SetBool("Moving", true);
-
-            if (_movement == new Vector2(0, -1))
-                _animator.SetFloat("MoveDir", 0);
-            if (_movement == new Vector2(0, 1))
-                _animator.SetFloat("MoveDir", 1);
-            if (_movement == new Vector2(1, 0))
-                _animator.SetFloat("MoveDir", 2);
-            if (_movement == new Vector2(-1, 0))
-                _animator.SetFloat("MoveDir", 3);
-            
-            
+            if (isRunning)
+                _animator.speed = 2;
+            else
+                _animator.speed = 1;
         }
         else
         {
             _animator.SetBool("Moving", false);
-
         }
-       
     }
 }
